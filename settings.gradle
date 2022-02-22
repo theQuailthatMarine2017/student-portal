@@ -1,0 +1,2 @@
+rootProject.name = "Atlast"
+include ':app'

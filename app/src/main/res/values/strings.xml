@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="hint1">Enter Mobile</string>
+    "<string name="account">Account</string>
+    <string name="Verify">Verification</string>
+    <string name="vry_string">Please Enter The 5 Digit Code Sent To Your Mobile Number Below.</string>
+    <string name="btn_submit">Continue</string>
+    <string name="enrolled1">Course Enrolled</string>
+    <string name="department1">Education Department</string>
+    <string name="name">Rony Marine Quail</string>
+    <string name="admin">RMQ-12345</string>
+    <string name="logout">Logout</string>
+    <string name="course">Introduction to Odoo with Python</string>
+    <string name="department">School of ICT</string>
+    <string name="enter_mobile">Enter Your Mobile Number Below: </string>
+    <string name="enter_code">Enter Verification Code </string>
+    <string name="img_des">This is image </string>
+</resources>
